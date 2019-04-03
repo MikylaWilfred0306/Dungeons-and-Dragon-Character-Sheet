@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Dungeons and Dragon\'s Character Sheet';
+  title = 'Dungeons & Dragons Characters';
 }
